@@ -4,4 +4,4 @@ title: Writing
 permalink: /writing/
 ---
 
-Links to technical writing go here.
+Links to technical communication go here.
