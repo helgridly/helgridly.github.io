@@ -38,4 +38,4 @@ In that context, I could see myself flourishing:
 * Running an R&D team where all new hires first land, blending onboarding and experimentation
 * Being an organization's go-to person for engineering career progression: onboarding, levelling / promotions, professional development / continuing education, mentoring, etc
 
-How does that sound? 🙂 I'd love to hear from you: (email@goes.here)
+How does that sound? 🙂 I'd love to hear from you: `hussein@thisdomain`
