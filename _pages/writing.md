@@ -4,4 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-Links to technical communication go here.
+0 to CGA - gdrive link
+
+[Understanding NOPE](https://helgridly.github.io/finstuff/understanding-NOPE/) - description goes here
+
