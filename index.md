@@ -24,7 +24,7 @@ I love learning complex systems, exploring data to come up with ideas and test h
 
 I enjoy designing and building systems to achieve specific goals -- and not just technical ones!
 
-In 2018 I took a three month sabbatical to investigate lossy compression of sequencing data, and created a new file format 4% the size of its source file and ~28% the size of its lossy competitor. I presented these results at the Global Alliance for Genomics & Health's 6th Plenary Meeting in Basel, Switzerland; watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
+In 2018 I took a three month sabbatical to investigate lossy compression of sequencing data, and **created a new file format 4% the size of its source file** and ~28% the size of its lossy competitor. I presented these results at the Global Alliance for Genomics & Health's 6th Plenary Meeting in Basel, Switzerland; watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
 In 2019 I led an effort with engineering managers to rethink our software engineering levels. (needs writeup, TBD; link to Trello)
 
@@ -32,7 +32,7 @@ You can find more information on these and other projects over on the [Projects]
 
 ### Growing engineers
 
-Leading teams and mentoring and growing developers has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (from both sides of the table -- see **my interviewing tips here**), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about designing software engineering levels for clarity and good feedback, and I've also pitched a [10% time policy -- link goes here]().
+Leading teams and mentoring and growing developers has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (see **my interviewing tips here**), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about designing software engineering levels for clarity and good feedback, and I've also pitched a [10% time policy -- link goes here]().
 
 ## Could you be my dream job?
 
