@@ -8,12 +8,6 @@ TODO: picture of me
 
 I've been in the software industry for 13 years. I have worn many hats: been an IC, done systems design, led teams, mentored junior engineers, done R&D, and championed career advancement and learning.
 
-**Making videogames**, which is about working collaboratively across many different disciplines in a joint creative endeavour (often under hardware constraints!); and
-
-**Building workflow execution systems for large-scale data**, as one of the first engineers who built [Terra](https://terra.bio/), a cloud-based platform that allows genomics researchers to manage datasets and run their analyses -- at a scale large enough to occasionally break DockerHub and Google Cloud Platform 🙂
-
-You can see more about these things on my [resume](/resume).
-
 ## The kinds of work I love
 
 ### Learn -> explore -> teach
