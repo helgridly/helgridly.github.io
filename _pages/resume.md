@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-showtitle: false
+hidetitle: true
 permalink: /resume/
 ---
 
