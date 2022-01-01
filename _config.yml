@@ -9,7 +9,7 @@ name: Hussein Elgridly
 author: Hussein Elgridly
 
 # Short bio or description (displayed in the header)
-description: "Hussein Elgridly's personal site."
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/lgrid.png
@@ -24,11 +24,11 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:
+  github: helgridly
   instagram:
-  linkedin: 
+  linkedin: hussein-elgridly
   pinterest:
-  rss: rss
+  rss: 
   twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
