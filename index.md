@@ -4,7 +4,7 @@ title: Hi! I'm Hussein.
 permalink: /
 ---
 
-TODO: picture of me
+<img style="float:left; padding-right:10px" src="images/butterfly_face.jpg" width="240">
 
 I've been in the software industry for 13 years. I have worn many hats: been an IC, done systems design, led teams, mentored junior engineers, done R&D, and championed career advancement and learning.
 
