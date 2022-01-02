@@ -14,7 +14,7 @@ I am a Practice Leader at [Greater Boston Zen Center](https://bostonzen.org/) on
 
 I like to rock climb, and I'm a fair-weather sailor on Boston Harbour. My favourite boat is the [Lightship Nantucket](https://en.wikipedia.org/wiki/United_States_lightship_Nantucket_(LV-112)), whose bell you can watch me gleefully ring below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2p-swq-NiGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2p-swq-NiGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Very occasionally I construct crosswords, though none have made it to the New York Times yet. My latest is [Cold Season](https://www.dropbox.com/s/qi1vb5fpeuaskay/ColdSeason.pdf?dl=0).
 
