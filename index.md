@@ -12,7 +12,7 @@ I've been in the software industry for 13 years. I have worn many hats: been an 
 
 ### Learn -> explore -> teach
 
-I love learning complex systems, exploring data to come up with ideas and test hypotheses, and then sharing what I've learned. I find teaching extremely rewarding. My presentation style is curious, familiar, and conversational: why not read my **crash course on genomics for computer scientists**, or my **writeup on how options markets work**? If those aren't for you, you'll find other instances of my writing over a wide range of topics on the [Writing](/writing) page.
+I love learning complex systems, exploring data to come up with ideas and test hypotheses, and then sharing what I've learned. I find teaching extremely rewarding. My presentation style is curious, familiar, and conversational: why not read my [crash course on genomics for computer scientists](https://docs.google.com/document/d/1-C_BI4mx0Amjxac7G908Wtmfuc_N8O4_UqSDPiZu_bo/edit?usp=sharing), or my [writeup on the inner workings of options markets](https://helgridly.github.io/finstuff/understanding-NOPE/)? If those aren't for you, you'll find other instances of my writing over a wide range of topics on the [Writing](/writing) page.
 
 ### Designing and building systems
 
@@ -26,7 +26,7 @@ You can find more information on these and other projects over on the [Projects]
 
 ### Growing engineers
 
-Leading teams and mentoring and growing developers has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (see **my interviewing tips here**), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about designing software engineering levels for clarity and good feedback, and I've also pitched a [10% time policy -- link goes here]().
+Leading teams and mentoring and growing developers has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (see [my interviewing tips](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#)), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about designing software engineering levels for clarity and good feedback, and I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and launched a [10% time policy](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true).
 
 ## Could you be my dream job?
 
@@ -38,4 +38,4 @@ In that context, I could see myself flourishing:
 * Running an R&D team where all new hires first land, blending onboarding and experimentation
 * Being an organization's go-to person for engineering career progression: onboarding, levelling / promotions, professional development / continuing education, mentoring, etc
 
-How does that sound? 🙂 I'd love to hear from you: (email@goes.here)
+How does that sound? 🙂 I'd love to hear from you: `hussein@thisdomain`

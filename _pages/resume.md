@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Resume
+hidetitle: true
 permalink: /resume/
 ---
 
 # Employment
 
-## Sabbatical
+### Sabbatical
 
 Extended period of time off to decompress and reset.
 
-## Principal Software Engineer - Foundation Medicine Inc.
+---
+
+### Principal Software Engineer - Foundation Medicine Inc.
 **04.2020 - 04.2021**
 
 I worked as a Tech Lead for a contractor-based team for a few months before switching over to a development team building v2 of FMI’s core Medical Reporting microservices.
@@ -25,7 +28,9 @@ As IC:
 * Identified our numerous approvals processes as instances of general “business process automation” problem, built a microservice on top of off-the-shelf software to extract approval processes from the store of record, decoupling modifications to process from software upgrades
 * Became de-facto DevOps liaison; wrote a lot of CloudFormation and Jenkins pipelines to build and deploy the team’s services
 
-## Principal Software Engineer - Broad Institute of MIT and Harvard
+---
+
+### Principal Software Engineer - Broad Institute of MIT and Harvard
 **01.2017 - 04.2020**
 
 I worked on [Terra](https://terra.bio) and its ecosystem since their inception in 2015. It’s a cloud-based system that allows genomics researchers to manage scientific tools and datasets and run their analyses at large scale. Architecturally, it’s a set of microservices running in Docker on Google Cloud; typically services are written in Scala/Slick/MySQL (I’ve done lots of this), with a frontend in ClojureScript (not me).
@@ -40,14 +45,16 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 * Built out a new Python microservice on Google App Engine on a tight deadline
 * Reached #1 ranking of all-time messages in the Broad's Slack workspace, with over 115,000 messages posted over ~4.5 years.
 
-### Senior Software Engineer - Broad Institute of MIT and Harvard
+#### Senior Software Engineer - Broad Institute of MIT and Harvard
 **09.2013 - 12.2016**
 
 * Helped write much of the workspace and analysis-submission service for Terra
 * Scrum master fill-in for six months
 * Ancient history: built a 3-month rapid prototype of a cloud-based workflow execution engine backed by Apache Aurora and Mesos; analysis for a $4m project to determine the statistical power of a new sequencing technique; development and support for the internal predecessor to terra.bio
 
-## Gameplay Programmer - Splash Damage
+---
+
+### Gameplay Programmer - Splash Damage
 **06.2011 - 05.2013**
 
 * Titles worked on: [redacted secret project], _Batman: Arkham Origins_
@@ -56,7 +63,9 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 * Worked with designers to prototype and implement gameplay mechanics, give suggestions and feedback on feasibility, and explain how to tweak behavior using exposed variables
 * Responsible for monitoring and improving performance, identifying hotspots and handing out or implementing optimizations
 
-## Gameplay Programmer - Ninja Theory
+---
+
+### Gameplay Programmer - Ninja Theory
 **10.2008 - 06.2011**
 
 * Titles worked on: _Enslaved: Odyssey to the West_, _DmC: Devil May Cry_
@@ -66,7 +75,7 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 
 # Education
 
-## M.Eng. Computing, 1st Class Honors, Imperial College London 
+### M.Eng. Computing, 1st Class Honors, Imperial College London 
 **2004 – 2008**
 
 Won Departmental Project Prize for Excellence and Best Presentation award for final year project on [dynamically modifying MIDI files during playback to suit mood](https://doczz.net/doc/444358/acronym---a-computational-re-orchestration-to-nuance-your...)
