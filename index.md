@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Hi! I'm Hussein.
+hidetitle: true
+title: Home
 permalink: /
 ---
 
-TODO: picture of me
+<img style="float:left; padding-right:10px" src="images/butterfly_face.jpg" width="240">
+
+# Hi! I'm Hussein.
 
 I've been in the software industry for 13 years. I have worn many hats: been an IC, done systems design, led teams, mentored junior engineers, done R&D, and championed career advancement and learning.
+
+<div style="clear:left"></div>
 
 ## The kinds of work I love
 
