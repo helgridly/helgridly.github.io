@@ -11,6 +11,8 @@ permalink: /
 
 I've been in the software industry for 13 years. I have worn many hats: been an IC, done systems design, led teams, mentored junior engineers, done R&D, and championed career advancement and learning.
 
+<div style="clear:left"></div>
+
 ## The kinds of work I love
 
 ### Learn -> explore -> teach
