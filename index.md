@@ -37,10 +37,12 @@ Leading teams and mentoring and growing developers has been the most rewarding p
 
 I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. My career so far has been directly in tech, but the most important thing to me is that the work I do makes a meaningful, tangible (positive!) difference in people's lives.
 
-In that context, I could see myself flourishing:
+In that context, I could see myself flourishing in all sorts of roles:
 
 * Doing technical research / advisory work for policy groups
 * Running an R&D team where all new hires first land, blending onboarding and experimentation
 * Being an organization's go-to person for engineering career progression: onboarding, levelling / promotions, professional development / continuing education, mentoring, etc
 
-How does that sound? 🙂 I'd love to hear from you: `hussein@thisdomain`
+...or maybe some other role we create together!
+
+Sound interesting? 🙂 I'd love to hear from you: `hussein@thisdomain`
