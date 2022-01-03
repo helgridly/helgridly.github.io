@@ -65,7 +65,7 @@ The columns were labelled with numbers, _not_ levels: this was to prevent debate
 By the end of this step we had a Trello board with skill cards sorted into numbered columns, like this:
 
 <div align="center">
-<img src="images/levels_numbered_columns.jpg" alt="A Trello board with skill cards categorized into numbered columns.">
+<img src="/images/levels_numbered_columns.jpg" alt="A Trello board with skill cards categorized into numbered columns.">
 </div>
 
 We ended up with 16 columns and 178 cards.
