@@ -6,7 +6,9 @@ title: Hiring for diversity
 
 It’s well known by this point that tech is a white, male-dominated field. I am sure you can think of many, _many_ reasons why this is a problem, and why diversity is important. It is - correctly! - a common topic of conversation these days.
 
-I am going to discuss one framing in this article. There are many others, and I am not saying this is the only framing, or the best framing, or the only one worth considering. It's just one motivation.
+I am going to discuss one framing in this article. There are many others, and I am not saying this is the only framing, or the best framing, or the only one worth considering. It's just one way of thinking about diversity in hiring.
+
+We have all met the archetypal "Senior Software Engineer":
 
 <div align="center">
 <img style="" src="/images/sse_starterpack.jpg" width="800" alt='The senior software engineer stereotype: white male, black hoodie, Allbird sneakers, airpods, old fashioned cocktail, rock climbing, and one of grilling, sous vide, or Soylent.'>
