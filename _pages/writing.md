@@ -24,6 +24,10 @@ I fought my way through the jargon and wrote [an introduction to the new operato
 
 I worked with a couple of mid-to-senior level engineers who felt uncomfortable leading interviews with candidates, especially the "tell me about a project you've worked on and we'll dig into the details together" panel. I enjoy interviewing, so I wrote some notes on [how I interview](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#) and the approach I take.
 
+## On hiring for diversity
+
+I've been thinking a lot recently about hiring processes, in particular the tech industry's push to increase diversity in the workforce. I wrote down my thoughts about [how you should - and shouldn't - hire for diversity](/hiring-diversity).
+
 ## Understanding options markets
 
 In early 2021 I got interested in options trading (yes, around the GME bubble 🚀), and stumbled across the [Net Options Pricing Effect model](https://www.scribd.com/document/487296659/Investigating-Delta-Gamma-Hedging-Impact-on-SPY-Returns-2007-2020) created by [Lily Francus](https://twitter.com/nope_its_lily). Having had no formal finance training it was a lot to wrap my head around, and I spent a few days diving into the mechanics of options trading to understand it. There are _many_ articles online on the  basics of options trading, but past the shallow water there is very little instruction. So I decided to write some.
