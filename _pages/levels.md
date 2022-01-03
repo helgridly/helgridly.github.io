@@ -18,7 +18,7 @@ The levels were, in order:
 * Senior Principal Software Engineer
 * Manager, Software Engineering
 
-The job matrix was widely considered to be a relic of its time and unsuitable for a software engineering group of 50-100 people. This caused a few problems:
+The job matrix was widely considered to be a relic of its time and unsuitable for an independent software engineering group of 50-100 people. This caused a few problems:
 
 * **Engineering Managers used their own heuristics** for judging when an employee was ready for promotion: a common one was "how much code can the engineer handle responsibly on their own?", ranging from "a function" for ASEs to "a moderately sized service" for PSEs.
 * However, there was **a wide degree of variance between EMs** on other qualities necessary for promotion, especially around what was termed "soft skills".

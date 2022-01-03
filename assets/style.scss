@@ -88,6 +88,12 @@ p {
   margin: 15px 0;
 }
 
+blockquote, q {
+  /* top, right, bottom, left; left has 4px subbed for the border */
+  padding: 0 30px 0 26px;
+  border-left: 4px solid #cccccc;
+}
+
 table {
 	padding: 0;
 }
