@@ -25,13 +25,13 @@ I enjoy designing and building systems to achieve specific goals -- and not just
 
 In 2018 I took a three month sabbatical to investigate lossy compression of DNA sequence data, and **created a new file format 4% the size of its source file** and ~28% the size of its lossy competitor. I presented these results at the Global Alliance for Genomics & Health's 6th Plenary Meeting in Basel, Switzerland; watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
-In 2019 I led an effort with engineering managers to rethink our software engineering levels. (needs writeup, TBD; link to Trello)
+In 2019 I led an effort with engineering managers to [**rethink our software engineering career ladder**](/levels).
 
 You can find more information on these and other projects over on the [Projects](/Projects) page.
 
 ### Growing engineers
 
-Leading teams and mentoring and growing developers has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (see [my interviewing tips](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#)), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about designing software engineering levels for clarity and good feedback, and I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and launched a [10% time policy](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true).
+Leading teams and mentoring and growing developers has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (see [my interviewing tips](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#)), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about [designing software engineering levels for clarity and good feedback](/levels), and I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and launched a [10% time policy](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true).
 
 ## Could you be my dream job?
 
