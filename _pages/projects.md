@@ -4,9 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
+### Rethinking software engineering levels
+
+In mid 2019 I took on a 50%-time role as "Advancement and Learning Facilitator" in Broad's Data Sciences Platform. One of my big projects in this role was to **rethink our software engineering ladder**.
+
+You can read the writeup of that process [here](/levels).
 
 * SCRAM
-* SWE levels
 * SPACs
 * Alabama election stats
 

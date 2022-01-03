@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: levels
+permalink: /levels/
 title: Building a new software engineering ladder
 ---
 
