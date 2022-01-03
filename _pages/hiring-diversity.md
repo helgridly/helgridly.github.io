@@ -16,11 +16,11 @@ We have all met the archetypal "Senior Software Engineer":
 </div>
 
 
-It's important to say at this point: this is not a bad person! But if you hire all of the same person, things are going to go great until you are left behind because you built an echo chamber. A startup can consist entirely of clones of this guy; you can get your seed funding like this. But you can’t make a grown-up, professional software engineering organisation with entirely this guy - and as you make that change, if all you have is this guy, he’s prone to turn from an asset into a liability*.
+It's important to say at this point: this is not a bad person! But if you hire all of the same person, things are going to go great until you are left behind because you built an echo chamber. A startup can consist entirely of clones of this guy; you can get your seed funding like this. But you can’t make a grown-up, professional software engineering organisation with _entirely_ this guy - and as you make that transition, if all you have is this guy, he’s prone to turn from an asset into a liability*.
 
 <small>*Because he’s too enamoured with his own success, he’ll be rigid in his conception of tech / development methodology / what the product should be / something else, and will try to throw around his tenure and experience to get his way. I've seen this happen, and it's an excellent way to kill a team's morale.</small>
 
-So you want two things: more diversity AND good candidates. The problem is twofold: most of the obvious "merit-based" evaluation criteria are subtly biased. But even with perfectly unbiased evaluation criteria, the pipeline itself is biased! So _unbiased evaluation is still going to get you biased hires_.
+So you want two things: more diversity _and_ good candidates. The problem is twofold: most of the obvious "merit-based" evaluation criteria are subtly biased. But even with perfectly unbiased evaluation criteria, the pipeline itself is biased! So _unbiased evaluation is still going to get you biased hires_.
 
 ## How not to think about diversity in hiring
 
