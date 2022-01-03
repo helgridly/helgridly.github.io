@@ -90,8 +90,10 @@ p {
 
 blockquote, q {
   /* top, right, bottom, left; left has 4px subbed for the border */
-  padding: 0 30px 0 26px;
+  padding: 1px 30px 1px 26px;
   border-left: 4px solid #cccccc;
+  background: #f1f1f1;
+  margin-right: 30px;
 }
 
 table {
