@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /levels/
 title: Building a new software engineering ladder
 ---
