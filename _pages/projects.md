@@ -6,11 +6,17 @@ permalink: /projects/
 
 ### Rethinking software engineering levels
 
-In mid 2019 I took on a 50%-time role as "Advancement and Learning Facilitator" in Broad's Data Sciences Platform. One of my big projects in this role was to **rethink our software engineering ladder**.
+In mid 2019 I took on a 50%-time role as "Advancement and Learning Facilitator" in Broad's Data Sciences Platform. One of my big projects in this role was to **redesign our software engineering ladder** in collaboration with our engineering managers.
 
 You can read the writeup of that process [here](/levels).
 
-* SCRAM
+### A new file format for genomic data
+
+Genomic data is huge - often hundreds of gigabytes per sequence file. For sequencing centers such as the Broad Insitute's [Genomics Platform](https://www.broadinstitute.org/reading-and-editing-biology/genomics-platform), the cost of keeping historical data around can be very high, even when moving to cold storage.
+
+I took a three month sabbatical to see if lossy compression could be used without affecting the data's usefulness for scientific analysis. I wrote a **compression algorithm that reduced file sizes to 4%** and ~28% the size of its lossy competitor, and travelled to Basel, Switzerland to present it at the Global Alliance for Genomics & Health's 6th Plenary Meeting.
+
+Watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
 ### How much does Boston Police Department spend on surveillance equipment?
 
