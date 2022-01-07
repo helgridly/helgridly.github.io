@@ -37,4 +37,4 @@ The Doug Jones v. Roy Moore special Senate election in AL was close, and a parti
 
 ### Other things
 
-I also have many projects that got shelved, so if you'd ever like to discuss tracking political donations, or the extremely scammy end of the crypto market, feel free to ask!
+I also have many projects that got shelved, so if you'd ever like to discuss using FEC data to track political donations, or the time I wrote a Solidity parser while investigating the extremely scammy end of the crypto market, do ask!
