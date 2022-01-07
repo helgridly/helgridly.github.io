@@ -19,9 +19,9 @@ I've been in the software industry for 13 years. I have worn many hats: been an 
 
 I love **learning complex systems**, exploring data to come up with ideas and test hypotheses, and then sharing what I've learned. I find **teaching** extremely rewarding. My presentation style is curious, familiar, and conversational: why not read my [**crash course on genomics for computer scientists**](https://docs.google.com/document/d/1-C_BI4mx0Amjxac7G908Wtmfuc_N8O4_UqSDPiZu_bo/edit?usp=sharing), or my writeup of [**the inner workings of options markets**](https://helgridly.github.io/finstuff/understanding-NOPE/)? If those aren't for you, you'll find other instances of my writing over a wide range of topics on the [Writing](/writing) page.
 
-### Designing and building systems
+### Solving high-impact problems
 
-I enjoy **designing and building systems** to achieve specific goals -- and not just technical ones!
+I'm naturally a **systems thinker** and am magnetically attracted to structurally mitigating problems before they happen.
 
 In 2018 I took a three month sabbatical to investigate lossy compression of DNA sequence data, and **created a new file format 4% the size of its source file** and ~28% the size of its lossy competitor. I presented these results at the Global Alliance for Genomics & Health's 6th Plenary Meeting in Basel, Switzerland; watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
