@@ -27,7 +27,7 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 ### Solving high-impact problems
 
-I'm naturally a **systems thinker** and am magnetically attracted to addressing big-ticket problems.
+I'm naturally a **systems thinker** and am magnetically attracted to addressing big-ticket problems, technical or otherwise.
 
 🗜 DNA sequence data is huge. I **created a lossy compression format 4% the size of its source** file and ~28% the size of its competitor, presenting the results at the Global Alliance for Genomics & Health's 6th Plenary Meeting in Basel, Switzerland; watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
