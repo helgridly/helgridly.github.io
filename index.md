@@ -45,4 +45,4 @@ In that context, I could see myself flourishing in all sorts of roles:
 
 ...or some other role we create together!
 
-Sound interesting? 🙂 I'd love to hear from you: `hussein@thisdomain`
+Sound interesting? 🙂 You can read my resume [here](/resume). I'd love to hear from you: `hussein@thisdomain`
