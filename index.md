@@ -17,21 +17,33 @@ I've been in the software industry for 13 years. I have worn many hats: been an 
 
 ### Learn -> explore -> teach
 
-I love **learning complex systems**, exploring data to come up with ideas and test hypotheses, and then sharing what I've learned. I find **teaching** extremely rewarding. My presentation style is curious, familiar, and conversational: why not read my [**crash course on genomics for computer scientists**](https://docs.google.com/document/d/1-C_BI4mx0Amjxac7G908Wtmfuc_N8O4_UqSDPiZu_bo/edit?usp=sharing), or my writeup of [**the inner workings of options markets**](https://helgridly.github.io/finstuff/understanding-NOPE/)? If those aren't for you, you'll find other instances of my writing over a wide range of topics on the [Writing](/writing) page.
+I love **learning complex systems**, exploring data to come up with ideas and test hypotheses, and **teaching** what I've learned.
+
+🧬 Read my [**crash course on genomics for computer scientists**](https://docs.google.com/document/d/1-C_BI4mx0Amjxac7G908Wtmfuc_N8O4_UqSDPiZu_bo/edit?usp=sharing)!
+
+🚀 Or maybe you'd prefer to learn [**the inner workings of options markets**](https://helgridly.github.io/finstuff/understanding-NOPE/)?
+
+✍ Plenty more on the [Writing](/writing) page.
 
 ### Solving high-impact problems
 
-I'm naturally a **systems thinker** and am magnetically attracted to structurally mitigating problems before they happen.
+I'm naturally a **systems thinker** and am magnetically attracted to addressing big-ticket problems, technical or otherwise.
 
-In 2018 I took a three month sabbatical to investigate lossy compression of DNA sequence data, and **created a new file format 4% the size of its source file** and ~28% the size of its lossy competitor. I presented these results at the Global Alliance for Genomics & Health's 6th Plenary Meeting in Basel, Switzerland; watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
+🗜 DNA sequence data is huge. I **created a lossy compression format 4% the size of its source file** and ~28% the size of its competitor, and flew to Switzerland to present the results to the [Global Alliance for Genomics & Health](https://www.ga4gh.org/). Watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
-In 2019 I led an effort with engineering managers to [**rethink our software engineering career ladder**](/levels).
+🪜 Faced with discontent in our org, I led an effort with engineering managers to [**rebuild our software engineering career ladder**](/levels).
 
-You can find more information on these and other projects over on the [Projects](/Projects) page.
+⚙ Plus more on the [Projects](/Projects) page.
 
 ### Growing engineers
 
-Leading teams and **growing developers** has been the most rewarding part of my career so far. I have experience building great teams, I lead a great interview (see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#)), and I care deeply about the (oft-ignored) new hire onboarding experience. As mentioned above, I've thought deeply about [**designing software engineering levels for clarity and good feedback**](/levels), and I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and launched a [**10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true).
+Leading teams and **growing developers** has been the most rewarding part of my career so far. As well as [rebuilding our software engineering career ladder](/levels):
+
+📒 I led a team of engineers in building [Leonardo](https://github.com/DataBiosphere/leonardo) from scratch, a service that spins up [Jupyter notebooks](https://jupyter.org/) on Spark clusters in Google Cloud Platform.
+
+🧠 I run a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#).
+
+🔟 I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and launched a [**10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true).
 
 ## Could you be my dream job?
 
