@@ -39,7 +39,7 @@ I'm naturally a **systems thinker** and am magnetically attracted to addressing 
 
 Leading teams and **growing developers** has been the most rewarding part of my career so far. As well as [rebuilding our software engineering career ladder](/levels):
 
-📒 I led the original development of [Leonardo](https://github.com/DataBiosphere/leonardo), a service that spun up [Jupyter notebooks](https://jupyter.org/) on Spark clusters in Google Cloud Platform.
+📒 I led a team of engineers in building [Leonardo](https://github.com/DataBiosphere/leonardo) from scratch, a service that spins up [Jupyter notebooks](https://jupyter.org/) on Spark clusters in Google Cloud Platform.
 
 🧠 I run a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#).
 
