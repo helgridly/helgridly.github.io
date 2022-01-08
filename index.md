@@ -21,7 +21,7 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 🧬 Read my [**crash course on genomics for computer scientists**](https://docs.google.com/document/d/1-C_BI4mx0Amjxac7G908Wtmfuc_N8O4_UqSDPiZu_bo/edit?usp=sharing)!
 
-💸 Or maybe you'd prefer to learn [**the inner workings of options markets**](https://helgridly.github.io/finstuff/understanding-NOPE/)?
+🚀 Or maybe you'd prefer to learn [**the inner workings of options markets**](https://helgridly.github.io/finstuff/understanding-NOPE/)?
 
 ✍ Plenty more on the [Writing](/writing) page.
 
