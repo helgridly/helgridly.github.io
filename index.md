@@ -41,7 +41,7 @@ Leading teams and **growing developers** has been the most rewarding part of my 
 
 📒 I led the original development of [Leonardo](https://github.com/DataBiosphere/leonardo), a service that spun up [Jupyter notebooks](https://jupyter.org/) on Spark clusters in Google Cloud Platform.
 
-🧠 I lead a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#).
+🧠 I run a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#).
 
 🔟 I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and launched a [**10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true).
 
