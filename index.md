@@ -53,4 +53,4 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. It's important that the work I do makes a **tangible, positive** difference in people's lives.
 
-Think we might be compatible? Read my [resume](/resume), then say hi: `hussein@thisdomain`
+Think we might be compatible? Read my [**resume**](/resume), then say hi: `hussein@thisdomain`
