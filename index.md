@@ -33,7 +33,7 @@ I'm naturally a **systems thinker** and am magnetically attracted to addressing 
 
 🪜 Faced with discontent in our org, I led an effort with engineering managers to [**rebuild our software engineering career ladder**](/levels).
 
-⚙ Plus more on the [Projects](/Projects) page.
+⚙ Plus more on the [Projects](/projects) page.
 
 ### Growing engineers
 
