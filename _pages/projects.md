@@ -18,6 +18,12 @@ I took a three month sabbatical to see if lossy compression could be used withou
 
 Watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s) or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit).
 
+### Reducing integration test runtime from 55 minutes to 15 minutes
+
+Our integration tests relied heavily on creating clean [Google Cloud Platform projects](https://developers.google.com/apps-script/guides/cloud-platform-projects) for test isolation. Project creation itself takes a few seconds but there were some group creation and population steps that were eventually consistent, emphasis on the _eventually_. This resulted in erratic test timeouts when Google was feeling slow that day, and slowly the timeout was increased as tests repeatedly failed.
+
+One day I overheard someone say "I guess I'll increase the timeout to 20 minutes". I turned horror into initiative and wrote a tech doc to pool the projects within an hour. Within a week I'd built a prototype and within a month [the microservice](https://github.com/broadinstitute/gpalloc) was deployed to our test environment. Our test runtime dropped over 70% as a result.
+
 ### How much does Boston Police Department spend on surveillance equipment?
 
 A project I did for the ACLU of Massachusetts' tech division, cross-referencing BPD's spending data (sourced from the City of Boston's [Checkbook Explorer](https://spending.data.boston.gov/)) against companies listed on the [Surveillance Industry Index](https://sii.transparencytoolkit.org/).
