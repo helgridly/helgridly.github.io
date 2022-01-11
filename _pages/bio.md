@@ -20,7 +20,7 @@ Very occasionally I construct crosswords, though none have made it to the New Yo
 
 ## About the butterfly on my face
 
-The picture of me on the landing page comes with a sad story.
+The picture of me on the landing page was taken at a butterfly farm. The butterfly in the picture was unable to fly. Here's the story:
 
 Butterfly wings are all crinkled up and wet when they're in their chrysalis -- and extremely delicate. When the butterfly emerges, it pushes out some... juice(?) from its body into hollow vein-like structures in the wings, which is what uncrinkles them. Within a couple of hours, the wing juice hardens, giving the wings their final structure.
 
