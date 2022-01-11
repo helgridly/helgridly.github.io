@@ -25,13 +25,13 @@ My efforts here have been the most rewarding part of my career so far:
 
 🏄 I love putting together **onboarding programs** and am constantly thinking about the new hire experience.
 
-🔟 I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"} and [**launched a 10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"}.
+💡 I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"} and [**launched a 10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"}.
 
 🌟 Plus: **leading teams**, **working with other leaders** to define policy, **mentoring** junior engineers, etc.
 
 ### Solving high-impact problems
 
-I'm naturally a **systems thinker** and am magnetically attracted to addressing big-ticket problems, technical or otherwise. I count [rebuilding our software engineering career ladder](/levels) as one example, but here are a couple of others:
+I'm naturally a **systems thinker** and am magnetically attracted to big-ticket problems, technical or otherwise. I count [rebuilding our software engineering career ladder](/levels) as one example, but here are a couple of others:
 
 🗜 DNA sequence data is huge. I **created a lossy compression format 4% the size of its source file** and ~28% the size of its competitor, and flew to Switzerland to present the results to the [Global Alliance for Genomics & Health](https://www.ga4gh.org/){:target="_blank"}. Watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s){:target="_blank"} or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit){:target="_blank"}.
 
@@ -51,4 +51,6 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 ## Could you be my dream job?
 
-I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. Think we might be compatible? You can read my resume [here](/resume). I'd love to hear from you: `hussein@thisdomain`
+I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. It's important that the work I do makes a **tangible, positive** difference in people's lives.
+
+Think we might be compatible? Read my [resume](/resume), then say hi: `hussein@thisdomain`
