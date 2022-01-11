@@ -26,7 +26,7 @@ Butterfly wings are all crinkled up and wet when they're in their chrysalis -- a
 
 If something goes wrong with this process - maybe the butterfly lands badly and the wing gets bent, or the juice doesn't flow quickly enough - well, it hardens however it does, and it's permanent.
 
-This butterfly got messed up wings and couldn't fly. The butterfly keeper said they put out fruit juice for the butterflies to drink - which ferments, so over the course of the day the butterflies get drunk. The butterfly was destined for a life of alcohol and not much else 🙁
+This butterfly got messed up wings and couldn't fly. The butterfly keeper said they put out fruit juice for the butterflies to drink - which ferments, so over the course of the day the butterflies get drunk. A good life? 🍹
 
 ## Some reviews
 
