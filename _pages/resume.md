@@ -36,13 +36,13 @@ As **IC**:
 ### Principal Software Engineer - Broad Institute of MIT and Harvard
 **01.2017 - 04.2020**
 
-I worked on [Terra](https://terra.bio) and its ecosystem since their inception in 2015. It’s a cloud-based system that allows genomics researchers to manage scientific tools and datasets and run their analyses at large scale. Architecturally, it’s a set of microservices running in Docker on Google Cloud; typically services are written in Scala/Slick/MySQL (I’ve done lots of this), with a frontend in ClojureScript (not me).
+I worked on [Terra](https://terra.bio){:target="_blank"} and its ecosystem since their inception in 2015. It’s a cloud-based system that allows genomics researchers to manage scientific tools and datasets and run their analyses at large scale. Architecturally, it’s a set of microservices running in Docker on Google Cloud; typically services are written in Scala/Slick/MySQL (I’ve done lots of this), with a frontend in ClojureScript (not me).
 
 I contributed as an engineer, did systems design, led a team, mentored junior engineers, did R&D, and championed career advancement and learning inside our organization. I’ve found leading teams and mentoring and growing developers the most rewarding part of my career so far.
 
 * As **Advancement and Learning Facilitator**, built out **new career leveling rubrics** for Associate to Principal SWE, and **created 10% time program** for self-driven projects
 * **Presented at GATK Workshop in Pretoria, South Africa**; put together a series of exercises to walk attendees through learning WDL
-* As **Tech Lead** for four developers, built [Leonardo](https://github.com/DataBiosphere/leonardo), a webservice to **spin up Spark clusters on Google Cloud** Dataproc installed with [**Jupyter**](https://jupyter.org/) and [Hail](https://hail.is/) to enable analysts to explore and compute against their data interactively; handed off project to another TL once it was stable
+* As **Tech Lead** for four developers, built [Leonardo](https://github.com/DataBiosphere/leonardo){:target="_blank"}, a webservice to **spin up Spark clusters on Google Cloud** Dataproc installed with [**Jupyter**](https://jupyter.org/){:target="_blank"} and [Hail](https://hail.is/){:target="_blank"} to enable analysts to explore and compute against their data interactively; handed off project to another TL once it was stable
 * **Dropped integration test runtime from 55 to 15 minutes** by rapid developing a microservice to pool Google Cloud Platform projects
 * **Created compressed file format** for sequencing data, dropping file sizes to 4% of original, and gave a talk on it at the GA4GH 6th Plenary Meeting
 * Built out a new Python microservice on Google App Engine on a tight deadline
@@ -81,7 +81,7 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 ### M.Eng. Computing, 1st Class Honors, Imperial College London 
 **2004 – 2008**
 
-Won Departmental Project Prize for Excellence and Best Presentation award for final year project on [dynamically modifying MIDI files during playback to suit mood](https://doczz.net/doc/444358/acronym---a-computational-re-orchestration-to-nuance-your...).
+Won Departmental Project Prize for Excellence and Best Presentation award for final year project on [dynamically modifying MIDI files during playback to suit mood](https://doczz.net/doc/444358/acronym---a-computational-re-orchestration-to-nuance-your...){:target="_blank"}.
 
 ### Introduction to Biochemistry - Harvard Extension School
 **Fall 2014**

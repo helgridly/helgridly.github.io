@@ -12,7 +12,7 @@ We have all met the archetypal "Senior Software Engineer":
 
 <div align="center">
 <img style="" src="/images/sse_starterpack.jpg" width="800" alt='The senior software engineer stereotype: white male, black hoodie, Allbird sneakers, airpods, old fashioned cocktail, rock climbing, and one of grilling, sous vide, or Soylent.'>
-<p><small>Also has potential to be one of <a href="https://www.goodreads.com/book/show/33369254-the-manager-s-path">Camille Fournier's</a> "brilliant jerks".</small></p>
+<p><small>Also has potential to be one of <a href="https://www.goodreads.com/book/show/33369254-the-manager-s-path" target="_blank">Camille Fournier's</a> "brilliant jerks".</small></p>
 </div>
 
 
@@ -43,6 +43,6 @@ There's a different approach you can take: examine where your current workforce 
 
 Now, you might say "our engineers are whip-smart, collaborate well, show incredible initiative, and can turn around fixes and enhancements in record time". Well done! So now: hire some junior engineers, possibly even ones with limited programming experience. That will teach your existing engineers mentorship, and how to balance immediate needs vs. modelling good practices for long-term benefit. This will not only benefit your new hires, but will also grow your existing engineers: it is through those interactions with different perspectives that they'll learn new skills.
 
-More typically, hiring for difference means [**explicitly prioritising collaborative skills and emotional maturity**](/levels), even _ahead_ of technical experience. A focus on deft interpersonal skills will push back against any "brilliant jerks are worth it" mindsets that may be lurking in your organization.
+More typically, hiring for difference means [**explicitly prioritising collaborative skills and emotional maturity**](/levels){:target="_blank"}, even _ahead_ of technical experience. A focus on deft interpersonal skills will push back against any "brilliant jerks are worth it" mindsets that may be lurking in your organization.
 
 When you reprioritise what you’re looking for, you end up hiring different kinds of people. If you do that thoughtfully, and really consider where and how you find your candidates, diversity will come naturally - and you will also have a culture where your hires are valued beyond their ability to fill a quota.

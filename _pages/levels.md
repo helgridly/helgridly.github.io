@@ -47,7 +47,7 @@ We decided a good career ladder should have the following attributes:
 
 ### Build a deck of "skill cards"
 
-With help from an interested EM and an enthusiastic SE seeking promotion feedback, I sought out engineering ladders from other companies (including Medium's [snowflake model](https://medium.com/s/engineering-growth-framework) and Rent the Runway's [great spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)) and decomposed them into **"skill cards", each of which had a single skill or quality that an engineer might display**.
+With help from an interested EM and an enthusiastic SE seeking promotion feedback, I sought out engineering ladders from other companies (including Medium's [snowflake model](https://medium.com/s/engineering-growth-framework){:target="_blank"} and Rent the Runway's [great spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0){:target="_blank"}) and decomposed them into **"skill cards", each of which had a single skill or quality that an engineer might display**.
 
 Both the original job matrix document we used, and many of the engineering ladders we found online, were very skewed towards listing technical skills. We took extra care to find and create skill cards around **collaboration and emotional maturity**. We also added some **antipattern cards** - common pitfalls for engineers at a given skill level.
 
@@ -94,11 +94,11 @@ We rationalized this by saying that Principals have finished the mandatory-train
 
 ### Communicate to engineers
 
-Employees are naturally wary of changes to how they're evaluated at work. EMs were asked to introduce and **discuss the new framework with their engineers during 1-1s, rather than surprising everyone with a "big reveal" at an all-hands**. We also wrote [a document explaining the changes](https://docs.google.com/document/d/1sCuaA4VULOhvMpaUlhD765keZrikFowi/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true) and answering the big questions, like "will anyone be re-levelled?".
+Employees are naturally wary of changes to how they're evaluated at work. EMs were asked to introduce and **discuss the new framework with their engineers during 1-1s, rather than surprising everyone with a "big reveal" at an all-hands**. We also wrote [a document explaining the changes](https://docs.google.com/document/d/1sCuaA4VULOhvMpaUlhD765keZrikFowi/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"} and answering the big questions, like "will anyone be re-levelled?".
 
 ## The result
 
-**You can see the final Trello board [here](https://trello.com/b/7ZhC9VPd/swe-levels-shareable).**
+**You can see the final Trello board [here](https://trello.com/b/7ZhC9VPd/swe-levels-shareable){:target="_blank"}.**
 
 At first engineers were a little overwhelmed, as the board is a _lot_ to take in at once. But after that wore off, they appreciated the clarity.
 
@@ -106,4 +106,4 @@ Sadly, the new framework didn't end up used as often as I'd hoped. Between turno
 
 ## Epilogue
 
-Since this project, the software industry has become a lot better at being clear around engineering ladders. Aggregator sites like [progression.fyi](https://www.progression.fyi/) host examples from many companies, including some implemented as Trello boards! I find this validating, though it does make it harder for me to claim I was being innovative 😉. Certainly were I to redo this project (and I'd enjoy doing so), there'd be many more resources to pull from - which can only be a good thing!
+Since this project, the software industry has become a lot better at being clear around engineering ladders. Aggregator sites like [progression.fyi](https://www.progression.fyi/){:target="_blank"} host examples from many companies, including some implemented as Trello boards! I find this validating, though it does make it harder for me to claim I was being innovative 😉. Certainly were I to redo this project (and I'd enjoy doing so), there'd be many more resources to pull from - which can only be a good thing!
