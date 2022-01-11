@@ -21,7 +21,7 @@ My efforts here have been the most rewarding part of my career so far:
 
 🪜 Read how [**I rebuilt our career ladder**](/levels) with Engineering Managers.
 
-🧠 I think a lot about how to build a good **interview process**. I run a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#){:target="_blank"}.
+🧠 I care a lot about building a good **interview process**. I run a fantastic interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#){:target="_blank"}.
 
 🏄 I love putting together **onboarding programs** and am constantly thinking about the new hire experience.
 
