@@ -17,7 +17,7 @@ I've been in the software industry for 13 years. I've worn many hats, but I care
 
 ### Scaling engineering teams
 
-My efforts here have been the most rewarding part of my career so far:
+My work here has been the most rewarding part of my career so far:
 
 🪜 Read how [**I rebuilt our career ladder**](/levels) with Engineering Managers.
 
