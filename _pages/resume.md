@@ -10,7 +10,7 @@ permalink: /resume/
 ### Sabbatical
 **04.2021 - present**
 
-Extended period of time off to decompress and reset.
+Extended period of time off to decompress and reset. (Best decision I've ever made!)
 
 ---
 

@@ -9,33 +9,35 @@ permalink: /
 
 # Hi! I'm Hussein.
 
-I've been in the software industry for 13 years. I have worn many hats: been an IC, done systems design, led teams, mentored junior engineers, done R&D, and championed career advancement and learning.
+I've been in the software industry for 13 years. I've worn many hats, but I care most about building an **incredible working environment** where engineers are **happy, productive, and constantly growing**.
 
 <div style="clear:left"></div>
 
-## The kinds of work I love
+## Work I love
 
-### Growing engineers
+### Scaling engineering teams
 
-Leading teams and **growing developers** has been the most rewarding part of my career so far.
+My efforts here have been the most rewarding part of my career so far:
 
-📒 As **Tech Lead**, I led a team of engineers and built [Leonardo](https://github.com/DataBiosphere/leonardo){:target="_blank"} from scratch, a service that spins up [Jupyter notebooks](https://jupyter.org/){:target="_blank"} on Spark clusters in Google Cloud Platform.
+🪜 Read how [**I rebuilt our career ladder**](/levels) with Engineering Managers.
 
-🪜 Faced with discontent in our org, I led an effort with Engineering Managers to [**rebuild our software engineering career ladder**](/levels).
+🧠 I think a lot about how to build a good **interview process**. I run a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#){:target="_blank"}.
 
-🧠 I run a great interview: see my [**interviewing tips**](https://docs.google.com/document/d/1qNeXN_E_na_KXsZMaXRfYQcoT-0w59yjdmN1B7Tst68/edit#){:target="_blank"}.
+🏄 I love putting together **onboarding programs** and am constantly thinking about the new hire experience.
 
-🔟 I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"} and launched a [**10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"}.
+🔟 I've also [pitched](https://docs.google.com/presentation/d/1dgl6OwC9FHX-6oT9Z1JCmPglDmW9umv0/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"} and [**launched a 10% time policy**](https://docs.google.com/document/d/1z81KCX6tuKLnSct5oFamhEvcFCJIPGOL/edit?usp=sharing&ouid=114804907504664516654&rtpof=true&sd=true){:target="_blank"}.
+
+🌟 Plus: **leading teams**, **working with other leaders** to define policy, **mentoring** junior engineers, etc.
 
 ### Solving high-impact problems
 
-I'm naturally a **systems thinker** and am magnetically attracted to addressing big-ticket problems, technical or otherwise. I count [rebuilding our software engineering career ladder](/levels) as problem solving, but here are a couple of other examples:
+I'm naturally a **systems thinker** and am magnetically attracted to addressing big-ticket problems, technical or otherwise. I count [rebuilding our software engineering career ladder](/levels) as one example, but here are a couple of others:
 
 🗜 DNA sequence data is huge. I **created a lossy compression format 4% the size of its source file** and ~28% the size of its competitor, and flew to Switzerland to present the results to the [Global Alliance for Genomics & Health](https://www.ga4gh.org/){:target="_blank"}. Watch [the talk](https://www.youtube.com/watch?v=TaqFBgaZHmE&t=13920s){:target="_blank"} or flip through [the slides](https://docs.google.com/presentation/d/1EAG3Mz_Rwszn1xzvLFlFDtZJKeTfTcqo/edit){:target="_blank"}.
 
 ⏱ I **dropped integration test runtimes from 55 minutes to 15 minutes** by [building a microservice to pool slow-to-create resources](https://github.com/broadinstitute/gpalloc){:target="_blank"} after hearing someone say "I guess I'll raise the timeout to 20 minutes".
 
-⚙ Plus more on the [Projects](/projects) page.
+⚙ Plus: more on the [Projects](/projects) page.
 
 ### Learn -> explore -> teach
 
@@ -45,18 +47,8 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 🚀 Or maybe you'd prefer to learn [**the inner workings of options markets**](https://helgridly.github.io/finstuff/understanding-NOPE/){:target="_blank"}?
 
-✍ Plenty more on the [Writing](/writing) page.
+✍ Plus: _plenty_ more on the [Writing](/writing) page.
 
 ## Could you be my dream job?
 
-I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. My career so far has been directly in tech, but the most important thing to me is that the work I do makes a **meaningful, tangible** (positive!) difference in people's lives.
-
-In that context, I could see myself flourishing in all sorts of roles:
-
-* Doing **technical research / advisory work** for policy groups
-* Running an **R&D team** where all new hires first land, blending **onboarding and experimentation**
-* Being an organization's go-to person for **engineering career progression**: onboarding, levelling / promotions, professional development / continuing education, mentoring, etc
-
-...or some other role we create together!
-
-Sound interesting? 🙂 You can read my resume [here](/resume). I'd love to hear from you: `hussein@thisdomain`
+I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. Think we might be compatible? You can read my resume [here](/resume). I'd love to hear from you: `hussein@thisdomain`
