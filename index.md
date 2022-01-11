@@ -39,7 +39,7 @@ I'm naturally a **systems thinker** and am magnetically attracted to addressing 
 
 ⚙ Plus: more on the [Projects](/projects) page.
 
-### Learn -> explore -> teach
+### Teaching and learning
 
 I love **learning complex systems**, exploring data to come up with ideas and test hypotheses, and **teaching** what I've learned.
 
