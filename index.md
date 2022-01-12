@@ -17,7 +17,7 @@ I've been in the software industry for 13 years. I've worn many hats, but I care
 
 ### Scaling engineering teams
 
-This been **the most rewarding work I've done**:
+Developing engineers has been **the most rewarding work I've done**:
 
 🪜 Read how [**I rebuilt our career ladder**](/levels) with Engineering Managers.
 
