@@ -41,10 +41,10 @@ I worked on [Terra](https://terra.bio){:target="_blank"} and its ecosystem since
 I contributed as an engineer, did systems design, led a team, mentored junior engineers, did R&D, and championed career advancement and learning inside our organization. I’ve found leading teams and mentoring and growing developers the most rewarding part of my career so far.
 
 * As **Advancement and Learning Facilitator**, built out **new career leveling rubrics** for Associate to Principal SWE, and **created 10% time program** for self-driven projects
-* **Presented at GATK Workshop in Pretoria, South Africa**; put together a series of exercises to walk attendees through learning WDL
 * As **Tech Lead** for four developers, built [Leonardo](https://github.com/DataBiosphere/leonardo){:target="_blank"}, a microservice to **spin up Spark clusters on Google Cloud** Dataproc installed with [**Jupyter**](https://jupyter.org/){:target="_blank"} and [Hail](https://hail.is/){:target="_blank"} to enable analysts to explore and compute against their data interactively; handed off project to another TL once it was stable
 * **Dropped integration test runtime from 55 to 15 minutes** by rapid developing a microservice to pool Google Cloud Platform projects
-* **Created compressed file format** for sequencing data, dropping file sizes to 4% of original, and gave a talk on it at the GA4GH 6th Plenary Meeting
+* **Created compressed file format** for sequencing data, dropping file sizes to 4% of original, and presented it at the Global Alliance for Genomic Health 6th Plenary Meeting
+* **Presented at GATK Workshop in Pretoria, South Africa**; put together a series of exercises to walk attendees through learning [WDL](https://openwdl.org/)
 * Built out a new Python microservice on Google App Engine on a tight deadline
 * Reached **#1 ranking of messages posted on Slack**, with over 115,000 messages posted over ~4.5 years
 
