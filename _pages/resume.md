@@ -46,7 +46,7 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 * **Created compressed file format** for sequencing data, dropping file sizes to 4% of original, and presented it at the Global Alliance for Genomic Health 6th Plenary Meeting
 * **Presented at GATK Workshop in Pretoria, South Africa**; put together a series of exercises to walk attendees through learning [WDL](https://openwdl.org/)
 * Built out a new Python microservice on Google App Engine on a tight deadline
-* Reached **#1 ranking of messages posted on Slack**, with over 115,000 messages posted over ~4.5 years
+* Reached **#1 ranking of Slack messages**, with over 115,000 messages posted over ~4.5 years
 
 #### Senior Software Engineer - Broad Institute of MIT and Harvard
 **09.2013 - 12.2016**
