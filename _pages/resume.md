@@ -20,29 +20,29 @@ Extended period of time off to decompress and reset. (Best decision I've ever ma
 I worked as a **Tech Lead for a contractor-based team** for a few months before switching over to a development team building v2 of FMI’s core Medical Reporting microservices.
 
 As **Tech Lead**:
-* **Upgraded a wacky\* build process** to a Gitflow-like model, and built out the CI infrastructure to support it
-* **Eliminated long merge freezes** from FDA-mandated software development process by splitting “build an artifact” from “deploy the artifact”
-* Debugging critical issues leading to software validation failures (QA deleting data during tests; dropped promises)
+* **Upgraded a wacky\* build process** to a Gitflow-like model, and built out associated Jenkins pipelines
+* **Eliminated long merge freezes** from FDA-mandated development process by splitting “build an artifact” from “deploy the artifact”
+* Debugging critical issues that caused validation failures (QA deleting data during tests; dropped promises)
 
 <small>*I really mean it. One branch per sprint, manual build and promote, dependencies on packages that no longer exist. Oh, and the build system was a zip file copy of a devops repo from a deleted GitLab instance.</small>
 
 As **IC**:
 * Gathered requirements across multiple groups and stakeholders for a rules engine implementation (project shelved for later)
-* **Rapid developed microservice** on top of off-the-shelf software to extract approval process from the store of record, after determining that company approval processes were all instances of the same “business process automation” problem
-* Became **_de facto_ DevOps liaison**; wrote a lot of CloudFormation and Jenkins pipelines to build and deploy the team’s services
+* **Rapid developed microservice** on top of open-source software to extract approval process from the store of record
+* Became **_de facto_ DevOps liaison**; wrote CloudFormation and Jenkins pipelines to build and deploy the team’s services
 
 ---
 
 ### Principal Software Engineer - Broad Institute of MIT and Harvard
 **01.2017 - 04.2020**
 
-I worked on [Terra](https://terra.bio){:target="_blank"} and its ecosystem since their inception in 2015. It’s a cloud-based system that allows genomics researchers to manage scientific tools and datasets and run their analyses at large scale. Architecturally, it’s a set of microservices running in Docker on Google Cloud; typically services are written in Scala/Slick/MySQL (I’ve done lots of this), with a frontend in ClojureScript (not me).
+I worked on [Terra](https://terra.bio){:target="_blank"} and its ecosystem since their inception in 2015. It’s a cloud-based system that allows genomics researchers to manage scientific tools and datasets and run their analyses at large scale.
 
 I contributed as an engineer, did systems design, led a team, mentored junior engineers, did R&D, and championed career advancement and learning inside our organization. I’ve found leading teams and mentoring and growing developers the most rewarding part of my career so far.
 
 * As **Advancement and Learning Facilitator**, built out **new career leveling rubrics** for Associate to Principal SWE, and **created 10% time program** for self-driven projects
 * **Presented at GATK Workshop in Pretoria, South Africa**; put together a series of exercises to walk attendees through learning WDL
-* As **Tech Lead** for four developers, built [Leonardo](https://github.com/DataBiosphere/leonardo){:target="_blank"}, a webservice to **spin up Spark clusters on Google Cloud** Dataproc installed with [**Jupyter**](https://jupyter.org/){:target="_blank"} and [Hail](https://hail.is/){:target="_blank"} to enable analysts to explore and compute against their data interactively; handed off project to another TL once it was stable
+* As **Tech Lead** for four developers, built [Leonardo](https://github.com/DataBiosphere/leonardo){:target="_blank"}, a microservice to **spin up Spark clusters on Google Cloud** Dataproc installed with [**Jupyter**](https://jupyter.org/){:target="_blank"} and [Hail](https://hail.is/){:target="_blank"} to enable analysts to explore and compute against their data interactively; handed off project to another TL once it was stable
 * **Dropped integration test runtime from 55 to 15 minutes** by rapid developing a microservice to pool Google Cloud Platform projects
 * **Created compressed file format** for sequencing data, dropping file sizes to 4% of original, and gave a talk on it at the GA4GH 6th Plenary Meeting
 * Built out a new Python microservice on Google App Engine on a tight deadline
@@ -62,8 +62,8 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 
 * Titles worked on: [redacted secret project], _Batman: Arkham Origins_
 * Hired for expertise with Unreal Engine as studio was transitioning from other technology. Documented common pitfalls and best practices; first point of contact for programmers asking advice about engine features and quirks
-* Developed networked, scriptable, **automated functional testing framework** which runs on every CI build and has been ported to multiple projects
-* Worked with designers to prototype and implement gameplay mechanics, give suggestions and feedback on feasibility, and explain how to tweak behavior using exposed variables
+* Wrote networked, scriptable, **automated functional testing framework** which runs on every CI build and has been ported to multiple projects
+* Prototyping and implementing gameplay mechanics, in collaboration with designers
 * Responsible for **monitoring and improving performance**, identifying hotspots and handing out or implementing optimizations
 
 ---
@@ -72,9 +72,8 @@ I contributed as an engineer, did systems design, led a team, mentored junior en
 **10.2008 - 06.2011**
 
 * Titles worked on: _Enslaved: Odyssey to the West_, _DmC: Devil May Cry_
-* Created **extensible developer UI** used across the studio for debugging purposes and enabling cheats
-* Worked with designers to create, maintain and **debug checkpoint system** to trigger save games; wrote **save game system including custom serializer**; wrote stat tracking system and handled awarding in-game achievements
-* Three months of performance and optimization work: finding expensive assets and notifying content creators; identifying bottlenecks in code and refactoring/caching results as necessary
+* Wrote **save game system including custom serializer**, stat tracking and achievement systems
+* Performance profiling and resulting optimizations
 
 # Education
 
