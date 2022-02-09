@@ -51,6 +51,8 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 ## Could you be my dream job?
 
-I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. It's important that the work I do makes a **tangible, positive** difference in people's lives. I'm open to opportunities in the Boston area, or remote (sorry, no relocating).
+I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful. This is probably something in the EM/TPM/VP.Eng domain, but every org's needs are different and I'd rather figure that out over a coffee than jump straight to labels.
+
+It's important that the work I do makes a **tangible, positive** difference in people's lives. I'm open to opportunities in the Boston area, or remote (sorry, no relocating).
 
 Think we might be compatible? Read my [**resume**](/resume), then say hi: `hussein@thisdomain`
