@@ -55,4 +55,4 @@ I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful
 
 It's important that the work I do makes a **tangible, positive** difference in people's lives. I'm open to opportunities in the Boston area, or remote (sorry, no relocating).
 
-Think we might be compatible? Read my [**resume**](/resume), then say hi: `hussein@thisdomain`
+Think we might be compatible? Say hi! `hussein@thisdomain`. (My resume is [here](/resume).)
