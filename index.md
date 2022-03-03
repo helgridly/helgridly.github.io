@@ -51,7 +51,7 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 ## Could you be my dream job?
 
-I'd love to apply my skills and enthusiasm in a way that's rewarding and helpful; [this profile](https://staffeng.com/stories/rick-boone) sounds appealing to me. A good step in that direction might be something like an EM/TPM role, but every org's needs are different and I'd rather figure out fit over a coffee than get hung up on labels.
+I'd like to spend my time gaining understanding, building strategy, and getting everyone rowing in the same direction. [This](https://staffeng.com/stories/rick-boone) is a job profile that sounds appealing to me. A good step in that direction might be something like an EM/TPM role, but every org's needs are different and I'd rather figure out fit over a coffee than get hung up on labels.
 
 It's important that the work I do makes a **tangible, positive** difference in people's lives. I'm open to opportunities in the Boston area, or remote (sorry, no relocating).
 
