@@ -36,7 +36,7 @@ As **IC**:
 ### Principal Software Engineer - Broad Institute of MIT and Harvard
 **01.2017 - 04.2020**
 
-I worked on [Terra](https://terra.bio){:target="_blank"} and its ecosystem since their inception in 2015. It’s a cloud-based system that allows genomics researchers to manage scientific tools and datasets and run their analyses at large scale.
+I worked on [Terra](https://terra.bio){:target="_blank"} and its ecosystem since their inception in 2015. It’s a cloud-based platform that gets compute and data management out of the way of genomics researchers so they can focus on the science and run their analyses at large scale.
 
 I contributed as an engineer, did systems design, led a team, mentored junior engineers, did R&D, and championed career advancement and learning inside our organization. I’ve found leading teams and mentoring and growing developers the most rewarding part of my career so far.
 
