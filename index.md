@@ -11,6 +11,8 @@ permalink: /
 
 I've been in the software industry for 13 years. I've worn many hats, but I care most about building an **incredible working environment** where engineers are **happy, productive, and constantly growing**.
 
+I am currently a Senior Software Engineering Manager at [Concentric by Ginkgo](https://www.concentricbyginkgo.com/).
+
 <div style="clear:left"></div>
 
 ## Work I love
@@ -49,10 +51,8 @@ I love **learning complex systems**, exploring data to come up with ideas and te
 
 ✍ Plus: _plenty_ more on the [Writing](/writing) page.
 
-## Could you be my dream job?
+## Get in touch
 
-I'd like to spend my time gaining understanding, building strategy, and getting everyone rowing in the same direction. [This job profile](https://staffeng.com/stories/rick-boone) is a path that sounds appealing to me. A good step in that direction might be something like an EM/TPM role, but every org's needs are different and I'd rather figure out fit over a coffee than get hung up on labels.
+I like to spend my time gaining understanding, building strategy, and getting everyone rowing in the same direction. It's important that the work I do makes a **tangible, positive** difference in people's lives.
 
-It's important that the work I do makes a **tangible, positive** difference in people's lives. I'm open to opportunities in the Boston area, or remote (sorry, no relocating).
-
-Think we might be compatible? Say hi! `hussein@thisdomain`. (My resume is [here](/resume).)
+Want to get in touch? Say hi: `hussein@thisdomain`.
