@@ -10,7 +10,7 @@ I started my career in the video games industry, which is about working collabor
 
 As I got older, both [crunch](https://en.wikipedia.org/wiki/Crunch_(video_games){:target="_blank"}) and the often-toxic gaming community became steadily less appealing, and I emigrated to the US to work at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/){:target="_blank"}. As a longtime (and enthusiastic) employee I was featured in a ["come work for us" promotional video](https://www.youtube.com/watch?v=lC-dqmwxR3M){:target="_blank"}, the closest I've come to being famous.
 
-I am a Practice Leader at [Greater Boston Zen Center](https://bostonzen.org/){:target="_blank"} on Tuesday nights and have been sitting with them for seven years.
+I am a Practice Leader at [Greater Boston Zen Center](https://bostonzen.org/){:target="_blank"} on Tuesday nights and have been sitting with them for seven years. In June 2022 I formally took the [Zen ethical precepts](https://www.lionsroar.com/what-is-jukai/){:target="_blank"} and received the [Dharma name](https://en.wikipedia.org/wiki/Dharma_name){:target="_blank"} 徹 元 _tetsu gen_: "penetrate \[the\] source", a reference to my desire for deep understanding.
 
 I like to rock climb, and I'm a fair-weather sailor on Boston Harbour. My favourite boat is the [Lightship Nantucket](https://en.wikipedia.org/wiki/United_States_lightship_Nantucket_(LV-112)){:target="_blank"}, whose bell you can watch me gleefully ring below:
 
