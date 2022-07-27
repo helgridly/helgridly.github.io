@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
-I was born in Cairo, Egypt and grew up in the UK, in the northwest of London. I pronounce my first name more like "huh-sane" than "who-sane", something like [this](http://ipa-reader.xyz/?text=h%C9%99%CB%88se%C9%AAn){:target="_blank"}. My surname sometimes gives people trouble if they panic, but it's just all the sounds in order.
+I was born in Cairo, Egypt and grew up in the UK, in the northwest of London. I pronounce my first name more like "huh-SANE", not "who-sane"; my surname is just all the sounds in order. (IPA: `/həˈseɪn elˈgrIdli/`, or just [listen here](http://ipa-reader.xyz/?text=h%C9%99%CB%88se%C9%AAn%20el%CB%88grIdli){:target="_blank"}.)
 
 I started my career in the video games industry, which is about working collaboratively across many different disciplines (art, 3D modelling, animation, audio, design, game and engine code) to build something creative, often within hardware constraints. Titles I've worked on include [Enslaved: Odyssey to the West](https://www.metacritic.com/game/xbox-360/enslaved-odyssey-to-the-west){:target="_blank"}, [DmC: Devil May Cry](https://www.metacritic.com/game/xbox-360/dmc-devil-may-cry){:target="_blank"}, and the multiplayer for [Batman: Arkham Origins](https://www.metacritic.com/game/playstation-3/batman-arkham-origins){:target="_blank"}.
 
