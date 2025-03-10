@@ -9,9 +9,7 @@ permalink: /
 
 # Hi! I'm Hussein.
 
-I've been in the software industry for 13 years. I've worn many hats, but I care most about building an **incredible working environment** where engineers are **happy, productive, and constantly growing**.
-
-I am currently a Senior Software Engineering Manager at [Concentric by Ginkgo](https://www.concentricbyginkgo.com/).
+I am happily funemployed. Please do not contact me about job offers in the tech industry.
 
 <div style="clear:left"></div>
 
